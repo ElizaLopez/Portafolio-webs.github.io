@@ -1,0 +1,64 @@
+.lista-encabezado {
+    list-style:none ;
+    display: flex;
+    justify-content: flex-end;
+    padding: 5px;
+}
+li{
+    padding: 5px;
+}
+.img‑google{
+    width: 300px;
+    height: 100px;
+
+}
+.contenedor‑imagen{
+    text-align: center;
+    margin-top: 30px;
+}
+.contenedor‑buscador{
+    text-align: center;
+    
+    margin: 0auto;
+
+}
+.input‑buscador{
+    width: 600px;
+    height: 25px;
+    border-radius: 20px;
+
+}
+.Buscar{
+    width: 150px;
+    height: 25px;
+    margin: 5px;
+    color: rgb(0, 0, 0);
+    background-color: rgb(213, 218, 218);
+    border-color: rgb(206, 209, 209);
+}
+.lista{
+    list-style:none ;
+    display: flex;
+    justify-content: flex-start;
+    padding: 5px;
+    background-color: rgb(214, 209, 209);
+
+}
+a{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+footer{
+    width: 100%;
+    margin: 70px;
+    position: absolute;
+    bottom: 0;
+}
+ .derecha{
+    list-style:none ;
+    display: flex;
+    justify-content: flex-start;
+    padding: 5px;
+    background-color: rgb(214, 209, 209);
+
+}
